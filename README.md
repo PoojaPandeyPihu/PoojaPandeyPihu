@@ -8,7 +8,7 @@ Lets Talk about things you don't know.
 - For me learning is a continous process and in your lifetime one must never stop learning something new.
 - I am passionate about learning new things - (it works as a therapy for me)
 - I am Good at imagining scenarious in my head.
-- This is just the begining of my journey and to be a data scientist is my upcoming goal
+- This is just the begining of my journey, STAY TUNED 
 <!---
 PoojaPandeyPihu/PoojaPandeyPihu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
